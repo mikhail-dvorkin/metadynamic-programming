@@ -1,6 +1,12 @@
 # metadynamic-programming
 Automatized proof of NP-complexity of 2D locally-dependant problems
 
+Bachelors thesis, 2008
+
+http://rain.ifmo.ru/~dvorkin/science/bachelors.pdf (in Russian)
+
+https://www.slideshare.net/mikhail.dvorkin/automated-npcompleteness-proof-for-2d-problems (in Russian)
+
 # WIP: notes from 2008 folder, as is
 
 * LongWriter should throw an exception when long overflows
